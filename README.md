@@ -147,6 +147,13 @@ This course belongs to DeepLearning.AI.
 
 ## C4 - Sequences, Time Series and Prediction
 
+Requirements:
+
+```
+tensorflow==2.7.0
+numpy==1.20.1
+matplotlib==3.2.2
+```
 ## Week 1
 
 ### Assignment
